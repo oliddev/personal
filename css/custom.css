@@ -38,4 +38,5 @@
   position: fixed;
   margin-bottom: 20px;
   margin-right: 20px;
+  z-index: 1000;
 }
